@@ -14,4 +14,4 @@ Illustrates how to organize translations in your plugin.
 
 ## Usage
 
-1. Navigate your browser to URL http://www.example.com?sa=TranslationsExample.justTextPage
+1. Navigate your browser to URL http://www.example.com/?sa=TranslationsExample.justTextPage
