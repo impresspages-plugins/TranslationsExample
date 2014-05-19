@@ -4,7 +4,7 @@ Form, file upload and custom validator example for ImpressPages.
 
 ## Features
 
-Example how to organize translations in your plugin.
+Illustrates how to organize translations in your plugin.
 
 ## Install
 
