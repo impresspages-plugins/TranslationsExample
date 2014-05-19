@@ -15,5 +15,5 @@ Illustrates how to organize translations in your plugin.
 ## Usage
 
 1. Navigate your browser to http://www.example.com/?sa=TranslationsExample.justTextPage
-2. Browser displays text `Translated simple string`. This means that the text `Simple string` from site controller is overridden by the text provided in translations/TranslationsExample-en.json file.
+2. Browser displays text `Translated simple string`. This means that the text `Simple string` from site controller code is overridden by the text provided in translations/TranslationsExample-en.json file.
 
