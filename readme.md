@@ -1,6 +1,6 @@
 # Translations example
 
-Form, file upload and custom validator example for ImpressPages.
+Code translation example for ImpressPages.
 
 ## Features
 
